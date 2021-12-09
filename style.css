@@ -1,0 +1,22 @@
+.box {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin: 5px;
+}
+
+.red {
+    background: red;
+}
+
+.blue {
+    background: blue;
+}
+
+.green {
+    background: green;
+}
+
+.yellow {
+    background: yellow;
+}
